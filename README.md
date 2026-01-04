@@ -15,4 +15,6 @@ It also includes proper documentation, calculations, and presentation files to s
 - HTML
 - CSS
 # WEBSITE SCREENSHOTS:
-Main Page (Website-screenshots/Screenshot 2026-01-04 230314.png
+Main Page <img width="1891" height="921" alt="Screenshot 2026-01-04 225247" src="https://github.com/user-attachments/assets/9ef0b63f-b14f-4121-ae24-633eb415853b" />
+
+
