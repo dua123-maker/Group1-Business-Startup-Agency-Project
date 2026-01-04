@@ -30,4 +30,5 @@ It also includes proper documentation, calculations, and presentation files to s
 -AMAMA ISHAQ(https://www.linkedin.com/search/results/all/?keywords=AMAMA%20ISHAQ&origin=GLOBAL_SEARCH_HEADER)
 -DUAA JAVAID(https://www.linkedin.com/in/dua-javaid-86611a318)
 # PROJECT LINK
-(http://127.0.0.1:5500/index.html)
+-Website Link: (http://127.0.0.1:5500/index.html)
+-Github link: (https://github.com/dua123-maker/Group1-Business-Startup-Agency-Project?tab=readme-ov-file)
