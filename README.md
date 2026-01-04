@@ -29,3 +29,5 @@ It also includes proper documentation, calculations, and presentation files to s
 -MUHAMMAD SHOAIB(https://www.linkedin.com/in/mohammed-shoaib-b8990b386/)
 -AMAMA ISHAQ(https://www.linkedin.com/search/results/all/?keywords=AMAMA%20ISHAQ&origin=GLOBAL_SEARCH_HEADER)
 -DUAA JAVAID(https://www.linkedin.com/in/dua-javaid-86611a318)
+# PROJECT LINK
+(http://127.0.0.1:5500/index.html)
