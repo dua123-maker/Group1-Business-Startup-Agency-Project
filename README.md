@@ -15,7 +15,12 @@ It also includes proper documentation, calculations, and presentation files to s
 - HTML
 - CSS
 # PROJECT REPORTS:
--WORD REPORT(https://docs.google.com/document/d/1gbtjd1ejv8gYShq9C7Dl7xwQ66hdOdev/edit?usp=drive_link&ouid=116216055857924194167&rtpof=true&sd=true)
--EXCEL REPORT(https://docs.google.com/spreadsheets/d/1VysPy5hEE4IDDPoJmvKUPH_Uuijk1zhY/edit?usp=drive_link&ouid=116216055857924194167&rtpof=true&sd=true)
--POWERPOINT REPORT(https://https://docs.google.com/document/d/1aPo_VsZUuVt8eEy5RRTBE2RIcxNlI2gIF_sGypjYiso/edit?usp=drive_link)
+-WORD REPORT:
+(https://docs.google.com/document/d/1gbtjd1ejv8gYShq9C7Dl7xwQ66hdOdev/edit?usp=drive_link&ouid=116216055857924194167&rtpof=true&sd=true)
+-EXCEL REPORT:
+(https://docs.google.com/spreadsheets/d/1VysPy5hEE4IDDPoJmvKUPH_Uuijk1zhY/edit?usp=drive_link&ouid=116216055857924194167&rtpof=true&sd=true)
+-POWERPOINT REPORT:
+(https://https://docs.google.com/document/d/1aPo_VsZUuVt8eEy5RRTBE2RIcxNlI2gIF_sGypjYiso/edit?usp=drive_link)
+# WEBSITE SCREENSHOTS:
+(https://drive.google.com/drive/folders/1UXVcVV6Fl68S8t7zX7iQLhGI1o3qGWii?usp=drive_link)
 
