@@ -15,4 +15,4 @@ It also includes proper documentation, calculations, and presentation files to s
 - HTML
 - CSS
 # WEBSITE SCREENSHOTS:
-Main Page (Website-screenshots/Screenshot 2026-01-04 230314.png)
+Main Page (Website-screenshots/Screenshot 2026-01-04 230314.png
